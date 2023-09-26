@@ -1,0 +1,7 @@
+.bgGrad {
+    background: rgb(192, 238, 239);
+    background: -moz-linear-gradient(90deg, rgba(192, 238, 239, 1) 4%, rgba(243, 248, 248, 0.9835531624759278) 50%, rgba(192, 238, 239, 1) 96%);
+    background: -webkit-linear-gradient(90deg, rgba(192, 238, 239, 1) 4%, rgba(243, 248, 248, 0.9835531624759278) 50%, rgba(192, 238, 239, 1) 96%);
+    background: linear-gradient(90deg, rgba(192, 238, 239, 1) 4%, rgba(243, 248, 248, 0.9835531624759278) 50%, rgba(192, 238, 239, 1) 96%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c0eeef", endColorstr="#c0eeef", GradientType=1);
+}
